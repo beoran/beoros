@@ -1,0 +1,10 @@
+Beoros
+
+An operating system kernel written in a bit of assembly and Go language. 
+It's a hobby project for now, to prove that it's possible to do it. 
+
+It consists of a few subprojects: 
+
+runtime : The Go language runtime written in Go language (not C) and some assembly.
+kernel  : The Beoros operating system kernel.
+
